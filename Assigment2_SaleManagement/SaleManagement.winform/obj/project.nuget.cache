@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNt+aqn7wwYRygaCrj5BYy2A5ANYM1ezHeKhA4M6y6xWUrZsbdWnJvu4VJGftpErehhQHw7IJyahbkmsde457A==",
+  "dgSpecHash": "89wzbBF3PqbV+CsWv5g+5NYM7rp/UALECXTGcdGY2W/VGg75f3VQ/W0hEGSvXk9FhkzCXmovvt/gvqKTTM9NOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

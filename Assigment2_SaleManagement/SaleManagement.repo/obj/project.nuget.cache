@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/8FuFtv4PfADyHJbAmV0ncympNVpwGoaiw4QFWZQYScrZuZ8Ftt4QGkasFFnDQQhS6b08A4s2CxPQdMzNVPRnw==",
+  "dgSpecHash": "iBKc0kS5kQtc6AYgPqZ9CQ5MGq7im4tTFZ7UPo+aYYQrq4eYW+xJOU5NGI/ocSdyzTpXIF/ojOxMDHYJo+M08Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

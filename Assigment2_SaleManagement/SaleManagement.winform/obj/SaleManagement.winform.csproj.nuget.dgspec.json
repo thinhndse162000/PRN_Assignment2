@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
         "projectName": "SaleManagement.repo",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
         "projectName": "SaleManagement.winform",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.winform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,8 +121,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj"
+              "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj"
               }
             }
           }

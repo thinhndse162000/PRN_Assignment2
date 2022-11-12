@@ -1,4 +1,5 @@
-﻿using SaleManagement.repo.Models;
+﻿using Microsoft.Identity.Client;
+using SaleManagement.repo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,5 +25,42 @@ namespace SaleManagement.repo.Repository
         {
             return _db.GetAdminPassword();
         }
+
+        public void CreateMember(Member member)
+        {
+            if (member is not null) { 
+                this._db.Members.Add(member);
+                this._db.SaveChanges();
+            }
+        }
+
+        public void Update(Member c)
+        {
+            if (c is not null)
+            {
+
+                var member = _db.Members.First(g => g.MemberId.Equals(c.MemberId));
+                _db.Entry(member).CurrentValues.SetValues(c);
+                _db.SaveChanges();
+
+            }
+        }
+
+        public bool Delete(int memberId)
+        {
+            Member? member = GetMemberById(memberId);
+            _db.Remove(member);
+            return _db.SaveChanges() > 0;
+        }
+
+        public Member? GetMemberById(int memberId)
+        {
+            return this._db.Members
+                .Where(c => c.MemberId.Equals(memberId))
+                .FirstOrDefault();
+        }
+
+        public List<Member> GetMembers() => _db.Members.ToList();
+
     }
 }
