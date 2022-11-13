@@ -1,6 +1,6 @@
 ﻿namespace SaleManagement.winform
 {
-    partial class frmMemberDetails
+    partial class frmProductObjectDetails
     {
         /// <summary>
         /// Required designer variable.
@@ -34,12 +34,12 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.txtMemberId = new System.Windows.Forms.TextBox();
-            this.txtEmail = new System.Windows.Forms.TextBox();
-            this.txtPassword = new System.Windows.Forms.TextBox();
-            this.txtCompany = new System.Windows.Forms.TextBox();
-            this.txtCity = new System.Windows.Forms.TextBox();
-            this.txtCountry = new System.Windows.Forms.TextBox();
+            this.txtProductId = new System.Windows.Forms.TextBox();
+            this.txtCategory = new System.Windows.Forms.TextBox();
+            this.txtProductName = new System.Windows.Forms.TextBox();
+            this.txtWeight = new System.Windows.Forms.TextBox();
+            this.txtUnitPrice = new System.Windows.Forms.TextBox();
+            this.txtUnitInStock = new System.Windows.Forms.TextBox();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -47,103 +47,102 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(83, 64);
+            this.label1.Location = new System.Drawing.Point(62, 61);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 15);
+            this.label1.Size = new System.Drawing.Size(62, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Member Id";
+            this.label1.Text = "Product Id";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(83, 92);
+            this.label2.Location = new System.Drawing.Point(62, 98);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 15);
+            this.label2.Size = new System.Drawing.Size(55, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Email";
+            this.label2.Text = "Category";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(83, 122);
+            this.label3.Location = new System.Drawing.Point(62, 137);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(57, 15);
+            this.label3.Size = new System.Drawing.Size(84, 15);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Password";
+            this.label3.Text = "Product Name";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(348, 122);
+            this.label4.Location = new System.Drawing.Point(303, 61);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(50, 15);
+            this.label4.Size = new System.Drawing.Size(45, 15);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Country";
+            this.label4.Text = "Weight";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(348, 64);
+            this.label5.Location = new System.Drawing.Point(303, 98);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(59, 15);
+            this.label5.Size = new System.Drawing.Size(58, 15);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Company";
+            this.label5.Text = "Unit Price";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(348, 92);
+            this.label6.Location = new System.Drawing.Point(303, 137);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(28, 15);
+            this.label6.Size = new System.Drawing.Size(74, 15);
             this.label6.TabIndex = 5;
-            this.label6.Text = "City";
+            this.label6.Text = "Unit In Stock";
             // 
-            // txtMemberId
+            // txtProductId
             // 
-            this.txtMemberId.Location = new System.Drawing.Point(154, 61);
-            this.txtMemberId.Name = "txtMemberId";
-            this.txtMemberId.Size = new System.Drawing.Size(178, 23);
-            this.txtMemberId.TabIndex = 6;
+            this.txtProductId.Location = new System.Drawing.Point(148, 53);
+            this.txtProductId.Name = "txtProductId";
+            this.txtProductId.Size = new System.Drawing.Size(100, 23);
+            this.txtProductId.TabIndex = 6;
             // 
-            // txtEmail
+            // txtCategory
             // 
-            this.txtEmail.Location = new System.Drawing.Point(154, 90);
-            this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(178, 23);
-            this.txtEmail.TabIndex = 7;
+            this.txtCategory.Location = new System.Drawing.Point(148, 90);
+            this.txtCategory.Name = "txtCategory";
+            this.txtCategory.Size = new System.Drawing.Size(100, 23);
+            this.txtCategory.TabIndex = 7;
             // 
-            // txtPassword
+            // txtProductName
             // 
-            this.txtPassword.Location = new System.Drawing.Point(154, 119);
-            this.txtPassword.Name = "txtPassword";
-            this.txtPassword.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(178, 23);
-            this.txtPassword.TabIndex = 8;
+            this.txtProductName.Location = new System.Drawing.Point(148, 129);
+            this.txtProductName.Name = "txtProductName";
+            this.txtProductName.Size = new System.Drawing.Size(100, 23);
+            this.txtProductName.TabIndex = 8;
             // 
-            // txtCompany
+            // txtWeight
             // 
-            this.txtCompany.Location = new System.Drawing.Point(413, 61);
-            this.txtCompany.Name = "txtCompany";
-            this.txtCompany.Size = new System.Drawing.Size(120, 23);
-            this.txtCompany.TabIndex = 9;
+            this.txtWeight.Location = new System.Drawing.Point(381, 53);
+            this.txtWeight.Name = "txtWeight";
+            this.txtWeight.Size = new System.Drawing.Size(100, 23);
+            this.txtWeight.TabIndex = 9;
             // 
-            // txtCity
+            // txtUnitPrice
             // 
-            this.txtCity.Location = new System.Drawing.Point(413, 90);
-            this.txtCity.Name = "txtCity";
-            this.txtCity.Size = new System.Drawing.Size(120, 23);
-            this.txtCity.TabIndex = 10;
+            this.txtUnitPrice.Location = new System.Drawing.Point(381, 90);
+            this.txtUnitPrice.Name = "txtUnitPrice";
+            this.txtUnitPrice.Size = new System.Drawing.Size(100, 23);
+            this.txtUnitPrice.TabIndex = 10;
             // 
-            // txtCountry
+            // txtUnitInStock
             // 
-            this.txtCountry.Location = new System.Drawing.Point(413, 119);
-            this.txtCountry.Name = "txtCountry";
-            this.txtCountry.Size = new System.Drawing.Size(120, 23);
-            this.txtCountry.TabIndex = 11;
+            this.txtUnitInStock.Location = new System.Drawing.Point(381, 129);
+            this.txtUnitInStock.Name = "txtUnitInStock";
+            this.txtUnitInStock.Size = new System.Drawing.Size(100, 23);
+            this.txtUnitInStock.TabIndex = 11;
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(212, 197);
+            this.btnSave.Location = new System.Drawing.Point(173, 194);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(75, 23);
             this.btnSave.TabIndex = 12;
@@ -153,7 +152,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(430, 201);
+            this.btnClose.Location = new System.Drawing.Point(303, 194);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 13;
@@ -161,29 +160,28 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
-            // frmMemberDetails
+            // frmProductObjectDetails
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(630, 309);
+            this.ClientSize = new System.Drawing.Size(613, 345);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.txtCountry);
-            this.Controls.Add(this.txtCity);
-            this.Controls.Add(this.txtCompany);
-            this.Controls.Add(this.txtPassword);
-            this.Controls.Add(this.txtEmail);
-            this.Controls.Add(this.txtMemberId);
+            this.Controls.Add(this.txtUnitInStock);
+            this.Controls.Add(this.txtUnitPrice);
+            this.Controls.Add(this.txtWeight);
+            this.Controls.Add(this.txtProductName);
+            this.Controls.Add(this.txtCategory);
+            this.Controls.Add(this.txtProductId);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "frmMemberDetails";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Member Details";
-            this.Load += new System.EventHandler(this.frmMemberDetails_Load);
+            this.Name = "frmProductObjectDetails";
+            this.Text = "frmProductObjectDetails";
+            this.Load += new System.EventHandler(this.frmProductObjectDetails_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -197,12 +195,12 @@
         private Label label4;
         private Label label5;
         private Label label6;
-        private TextBox txtMemberId;
-        private TextBox txtEmail;
-        private TextBox txtPassword;
-        private TextBox txtCompany;
-        private TextBox txtCity;
-        private TextBox txtCountry;
+        private TextBox txtProductId;
+        private TextBox txtCategory;
+        private TextBox txtProductName;
+        private TextBox txtWeight;
+        private TextBox txtUnitPrice;
+        private TextBox txtUnitInStock;
         private Button btnSave;
         private Button btnClose;
     }
