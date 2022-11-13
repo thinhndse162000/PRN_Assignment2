@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using SaleManagement.repo.Models;
 using SaleManagement.repo.Repository;
+using SaleManagement.repo.Service;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,10 +19,12 @@ namespace SaleManagement.winform
         BindingSource _bindingSource;
         IProductRepository _repository;
         Product _product;
+        ProductService _productService;
         public frmProductsObject()
         {
             InitializeComponent();
             _repository = new ProductRepository();
+            _productService = ProductService.Instance;
         }
 
         private void frmProductsObject_Load(object sender, EventArgs e)
@@ -110,10 +113,39 @@ namespace SaleManagement.winform
             }
         }
 
-        private void txtSearchFilter_TextChanged(object sender, EventArgs e)
-        {   
-            _bindingSource.Filter = String.Format("ProductName LIKE '%" + txtSearchFilter.Text + "%'");
-           
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Filter() {
+            int id = (int)txtId.Value;
+            string name = txtProductName.Text;
+            decimal price = txtUnitPrice.Value;
+            int UnitsInStock = (int)txtUnitInStock.Value;
+
+            _bindingSource.DataSource = _productService.Filter(id, name, price, UnitsInStock);
+
+        }
+
+        private void txtId_ValueChanged(object sender, EventArgs e)
+        {
+            Filter();
+        }
+
+        private void txtProductName_TextChanged(object sender, EventArgs e)
+        {
+            Filter();
+        }
+
+        private void txtUnitPrice_ValueChanged(object sender, EventArgs e)
+        {
+            Filter();
+        }
+
+        private void txtUnitInStock_ValueChanged(object sender, EventArgs e)
+        {
+            Filter();
         }
     }
 }

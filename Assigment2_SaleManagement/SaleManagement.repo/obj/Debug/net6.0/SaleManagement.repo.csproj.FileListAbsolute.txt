@@ -26,3 +26,17 @@ C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.pdb
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\ref\SaleManagement.repo.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.csproj.AssemblyReference.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.AssemblyInfoInputs.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.AssemblyInfo.cs
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.csproj.CoreCompileInputs.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\refint\SaleManagement.repo.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.pdb
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\bin\Debug\net6.0\SaleManagement.repo.deps.json
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\bin\Debug\net6.0\SaleManagement.repo.runtimeconfig.json
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\bin\Debug\net6.0\SaleManagement.repo.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\bin\Debug\net6.0\SaleManagement.repo.pdb
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\SaleManagement.repo.genruntimeconfig.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.repo\obj\Debug\net6.0\ref\SaleManagement.repo.dll

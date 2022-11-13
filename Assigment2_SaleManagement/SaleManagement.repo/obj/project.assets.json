@@ -3799,24 +3799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\huynh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+      "projectUniqueName": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
       "projectName": "SaleManagement.repo",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
+      "projectPath": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+      "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
+      "outputPath": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3824,7 +3819,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -3887,7 +3883,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
