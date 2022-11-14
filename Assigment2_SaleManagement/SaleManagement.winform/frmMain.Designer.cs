@@ -28,24 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
+            this.tabMain = new System.Windows.Forms.TabControl();
             this.mFunction = new System.Windows.Forms.ToolStripMenuItem();
             this.mMemberManagement = new System.Windows.Forms.ToolStripMenuItem();
             this.mProductManagement = new System.Windows.Forms.ToolStripMenuItem();
             this.mOrderManagement = new System.Windows.Forms.ToolStripMenuItem();
-            this.tabMain = new System.Windows.Forms.TabControl();
+            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.menuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // menuStrip2
+            // tabMain
             // 
-            this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mFunction});
-            this.menuStrip2.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Size = new System.Drawing.Size(800, 24);
-            this.menuStrip2.TabIndex = 1;
-            this.menuStrip2.Text = "menuStrip2";
+            this.tabMain.Dock = System.Windows.Forms.DockStyle.Top;
+            this.tabMain.Location = new System.Drawing.Point(0, 24);
+            this.tabMain.Name = "tabMain";
+            this.tabMain.SelectedIndex = 0;
+            this.tabMain.Size = new System.Drawing.Size(800, 38);
+            this.tabMain.TabIndex = 2;
+            this.tabMain.SelectedIndexChanged += new System.EventHandler(this.tabMain_SelectedIndexChanged);
             // 
             // mFunction
             // 
@@ -80,15 +80,15 @@
             this.mOrderManagement.Text = "&Order Management";
             this.mOrderManagement.Click += new System.EventHandler(this.mOrderManagement_Click);
             // 
-            // tabMain
+            // menuStrip2
             // 
-            this.tabMain.Dock = System.Windows.Forms.DockStyle.Top;
-            this.tabMain.Location = new System.Drawing.Point(0, 24);
-            this.tabMain.Name = "tabMain";
-            this.tabMain.SelectedIndex = 0;
-            this.tabMain.Size = new System.Drawing.Size(800, 38);
-            this.tabMain.TabIndex = 2;
-            this.tabMain.SelectedIndexChanged += new System.EventHandler(this.tabMain_SelectedIndexChanged);
+            this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mFunction});
+            this.menuStrip2.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip2.Name = "menuStrip2";
+            this.menuStrip2.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip2.TabIndex = 1;
+            this.menuStrip2.Text = "menuStrip2";
             // 
             // frmMain
             // 
@@ -111,11 +111,11 @@
         }
 
         #endregion
-        private MenuStrip menuStrip2;
+        private TabControl tabMain;
         private ToolStripMenuItem mFunction;
         private ToolStripMenuItem mMemberManagement;
         private ToolStripMenuItem mProductManagement;
         private ToolStripMenuItem mOrderManagement;
-        private TabControl tabMain;
+        private MenuStrip menuStrip2;
     }
 }

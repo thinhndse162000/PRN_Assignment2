@@ -3607,24 +3607,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\huynh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
+      "projectUniqueName": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
       "projectName": "SaleManagement.winform",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.winform\\obj\\",
+      "projectPath": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.winform\\SaleManagement.winform.csproj",
+      "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
+      "outputPath": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.winform\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3632,14 +3627,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj"
+            "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
+              "projectPath": "D:\\Work Space\\dotnet\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj"
             }
           }
         }
@@ -3682,7 +3678,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

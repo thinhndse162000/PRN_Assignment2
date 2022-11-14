@@ -10,7 +10,13 @@ namespace SaleManagement.repo.Repository
     public interface IMemberRepository
     {
         IEnumerable<Member> GetAllMember();
+        List<Member> GetMembers();
+        Member GetMemberById(int memberId);
         string GetAdminEmail();
         string GetAdminPassword();
+        void CreateMember(Member member);
+        void Update(Member c);
+        bool Delete(int memberId);
+
     }
 }

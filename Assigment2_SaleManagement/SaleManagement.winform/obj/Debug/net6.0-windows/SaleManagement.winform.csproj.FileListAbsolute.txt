@@ -68,3 +68,146 @@ C:\Users\Admin\source\repos\Assigment2_SaleManagement\SaleManagement.winform\obj
 C:\Users\Admin\source\repos\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMembers.resources
 C:\Users\Admin\source\repos\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrdersObject.resources
 C:\Users\Admin\source\repos\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmProductsObject.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.exe
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.deps.json
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.runtimeconfig.json
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.pdb
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.repo.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.repo.pdb
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmLogin.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMain.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMembers.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrdersObject.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmProductsObject.resources
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.CopyComplete
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\refint\SaleManagement.winform.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.pdb
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\ref\SaleManagement.winform.dll
+C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMemberDetails.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.AssemblyReference.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmLogin.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMain.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMemberDetails.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMembers.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrdersObject.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmProductObjectDetails.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmProductsObject.resources
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.GenerateResource.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.AssemblyInfoInputs.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.AssemblyInfo.cs
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.CoreCompileInputs.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\refint\SaleManagement.winform.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.pdb
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.exe
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\appsettings.json
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.deps.json
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.runtimeconfig.json
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.pdb
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.repo.dll
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.repo.pdb
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.csproj.CopyComplete
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.genruntimeconfig.cache
+D:\Work Space\dotnet\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\ref\SaleManagement.winform.dll
