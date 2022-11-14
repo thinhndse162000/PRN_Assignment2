@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SaleManagement.winform
 {
-    public partial class frmOrdersObject : Form
+    public partial class frmOrderObjectDetailCreate : Form
     {
-        public frmOrdersObject()
+        public frmOrderObjectDetailCreate()
         {
             InitializeComponent();
         }
