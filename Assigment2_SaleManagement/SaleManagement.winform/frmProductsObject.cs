@@ -1,10 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using SaleManagement.repo.Models;
 using SaleManagement.repo.Repository;
-<<<<<<< HEAD
-=======
 using SaleManagement.repo.Service;
->>>>>>> 74ca44e (add search product)
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -22,18 +19,12 @@ namespace SaleManagement.winform
         BindingSource _bindingSource;
         IProductRepository _repository;
         Product _product;
-<<<<<<< HEAD
-=======
         ProductService _productService;
->>>>>>> 74ca44e (add search product)
         public frmProductsObject()
         {
             InitializeComponent();
             _repository = new ProductRepository();
-<<<<<<< HEAD
-=======
             _productService = ProductService.Instance;
->>>>>>> 74ca44e (add search product)
         }
 
         private void frmProductsObject_Load(object sender, EventArgs e)
@@ -122,12 +113,6 @@ namespace SaleManagement.winform
             }
         }
 
-<<<<<<< HEAD
-        private void txtSearchFilter_TextChanged(object sender, EventArgs e)
-        {   
-            _bindingSource.Filter = String.Format("ProductName LIKE '%" + txtSearchFilter.Text + "%'");
-           
-=======
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -161,7 +146,6 @@ namespace SaleManagement.winform
         private void txtUnitInStock_ValueChanged(object sender, EventArgs e)
         {
             Filter();
->>>>>>> 74ca44e (add search product)
         }
     }
 }

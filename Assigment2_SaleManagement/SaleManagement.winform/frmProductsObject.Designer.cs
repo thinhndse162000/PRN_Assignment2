@@ -28,21 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
-            this.dvgProduct = new System.Windows.Forms.DataGridView();
-            this.txtSearchFilter = new System.Windows.Forms.TextBox();
-=======
             this.components = new System.ComponentModel.Container();
             this.dvgProduct = new System.Windows.Forms.DataGridView();
             this.productBindingSource = new System.Windows.Forms.BindingSource(this.components);
->>>>>>> 74ca44e (add search product)
             this.label1 = new System.Windows.Forms.Label();
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
-<<<<<<< HEAD
-            ((System.ComponentModel.ISupportInitialize)(this.dvgProduct)).BeginInit();
-=======
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.txtId = new System.Windows.Forms.NumericUpDown();
@@ -68,7 +60,6 @@
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtUnitInStock)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.productRepositoryBindingSource)).BeginInit();
->>>>>>> 74ca44e (add search product)
             this.SuspendLayout();
             // 
             // dvgProduct
@@ -76,28 +67,16 @@
             this.dvgProduct.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dvgProduct.Location = new System.Drawing.Point(2, 191);
             this.dvgProduct.Name = "dvgProduct";
-<<<<<<< HEAD
-=======
             this.dvgProduct.ReadOnly = true;
->>>>>>> 74ca44e (add search product)
             this.dvgProduct.RowTemplate.Height = 25;
             this.dvgProduct.Size = new System.Drawing.Size(796, 247);
             this.dvgProduct.TabIndex = 0;
             this.dvgProduct.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dvgProduct_CellClick);
             this.dvgProduct.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dvgProduct_CellDoubleClick);
             // 
-<<<<<<< HEAD
-            // txtSearchFilter
-            // 
-            this.txtSearchFilter.Location = new System.Drawing.Point(89, 26);
-            this.txtSearchFilter.Name = "txtSearchFilter";
-            this.txtSearchFilter.Size = new System.Drawing.Size(248, 23);
-            this.txtSearchFilter.TabIndex = 1;
-=======
             // productBindingSource
             // 
             this.productBindingSource.DataSource = typeof(SaleManagement.repo.Models.Product);
->>>>>>> 74ca44e (add search product)
             // 
             // label1
             // 
@@ -110,11 +89,7 @@
             // 
             // btnAdd
             // 
-<<<<<<< HEAD
-            this.btnAdd.Location = new System.Drawing.Point(98, 157);
-=======
             this.btnAdd.Location = new System.Drawing.Point(200, 157);
->>>>>>> 74ca44e (add search product)
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 23);
             this.btnAdd.TabIndex = 3;
@@ -124,11 +99,7 @@
             // 
             // btnDelete
             // 
-<<<<<<< HEAD
-            this.btnDelete.Location = new System.Drawing.Point(222, 157);
-=======
             this.btnDelete.Location = new System.Drawing.Point(369, 157);
->>>>>>> 74ca44e (add search product)
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 23);
             this.btnDelete.TabIndex = 4;
@@ -138,11 +109,7 @@
             // 
             // btnClose
             // 
-<<<<<<< HEAD
-            this.btnClose.Location = new System.Drawing.Point(333, 157);
-=======
             this.btnClose.Location = new System.Drawing.Point(534, 157);
->>>>>>> 74ca44e (add search product)
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 5;
@@ -150,8 +117,6 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
-<<<<<<< HEAD
-=======
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Controls.Add(this.panel1);
@@ -282,32 +247,22 @@
             // 
             this.productRepositoryBindingSource.DataSource = typeof(SaleManagement.repo.Repository.ProductRepository);
             // 
->>>>>>> 74ca44e (add search product)
             // frmProductsObject
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-<<<<<<< HEAD
-=======
             this.Controls.Add(this.flowLayoutPanel1);
->>>>>>> 74ca44e (add search product)
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.label1);
-<<<<<<< HEAD
-            this.Controls.Add(this.txtSearchFilter);
-=======
->>>>>>> 74ca44e (add search product)
             this.Controls.Add(this.dvgProduct);
             this.Name = "frmProductsObject";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Product Object Management";
             this.Load += new System.EventHandler(this.frmProductsObject_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dvgProduct)).EndInit();
-<<<<<<< HEAD
-=======
             ((System.ComponentModel.ISupportInitialize)(this.productBindingSource)).EndInit();
             this.flowLayoutPanel1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
@@ -322,7 +277,6 @@
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtUnitInStock)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.productRepositoryBindingSource)).EndInit();
->>>>>>> 74ca44e (add search product)
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -331,16 +285,10 @@
         #endregion
 
         private DataGridView dvgProduct;
-<<<<<<< HEAD
-        private TextBox txtSearchFilter;
-=======
->>>>>>> 74ca44e (add search product)
         private Label label1;
         private Button btnAdd;
         private Button btnDelete;
         private Button btnClose;
-<<<<<<< HEAD
-=======
         private FlowLayoutPanel flowLayoutPanel1;
         private Panel panel1;
         private Label label2;
@@ -356,6 +304,5 @@
         private NumericUpDown txtUnitPrice;
         private NumericUpDown txtUnitInStock;
         private NumericUpDown txtId;
->>>>>>> 74ca44e (add search product)
     }
 }

@@ -22,13 +22,11 @@
     <Compile Update="frmProductsObject.cs">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Update="frmProfile.cs">
       <SubType>Form</SubType>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Update="frmProductsObject.resx">
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
+=======
+>>>>>>> 74ca44e (add search product)
   </ItemGroup>
 </Project>

@@ -28,17 +28,10 @@ namespace SaleManagement.winform
                 var pass = _memberRepository.GetAdminPassword();
                 var member = this._memberRepository.GetMembers().Where(a => a.Email == txtEmail.Text
                      && a.Password == txtPassword.Text).FirstOrDefault();
-<<<<<<< HEAD
                 if (member != null && member.Email != email ) {
                     frmProfile frmProfile = new frmProfile(member.MemberId);
                     this.Hide();
                     frmProfile.Show();
-=======
-                if (member != null) {
-                    frmMain frmMain = new();
-                    this.Hide();
-                    frmMain.Show();
->>>>>>> 74ca44e (add search product)
                 }
                 else if (txtEmail.Text != email)
                 {
