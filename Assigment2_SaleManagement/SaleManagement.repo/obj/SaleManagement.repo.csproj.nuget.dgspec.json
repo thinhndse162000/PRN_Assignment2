@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {}
+    "C:\\PRN211-SE1610\\Workspace\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
+    "C:\\PRN211-SE1610\\Workspace\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+        "projectUniqueName": "C:\\PRN211-SE1610\\Workspace\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
         "projectName": "SaleManagement.repo",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Assgiment2\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
+        "projectPath": "C:\\PRN211-SE1610\\Workspace\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\SaleManagement.repo.csproj",
+        "packagesPath": "C:\\Users\\nguyen hung\\.nuget\\packages\\",
+        "outputPath": "C:\\PRN211-SE1610\\Workspace\\PRN_Assignment2\\Assigment2_SaleManagement\\SaleManagement.repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguyen hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
