@@ -1,6 +1,6 @@
 ﻿namespace SaleManagement.winform
 {
-    partial class frmOrderObjectDetail
+    partial class frmOrderObjectDetailUpdate
     {
         /// <summary>
         /// Required designer variable.
@@ -32,7 +32,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtFreight = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.dgvOrderDetail = new System.Windows.Forms.DataGridView();
@@ -41,10 +40,12 @@
             this.dteRequiredDate = new System.Windows.Forms.DateTimePicker();
             this.dteOrderDate = new System.Windows.Forms.DateTimePicker();
             this.dteShippedDate = new System.Windows.Forms.DateTimePicker();
-            this.txtMemberName = new System.Windows.Forms.TextBox();
+            this.txtMemberEmail = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtOrderId = new System.Windows.Forms.TextBox();
+            this.numFreight = new System.Windows.Forms.NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrderDetail)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numFreight)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -52,9 +53,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(471, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(109, 20);
+            this.label1.Size = new System.Drawing.Size(106, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Member Name";
+            this.label1.Text = "Member Email";
             // 
             // label2
             // 
@@ -83,13 +84,6 @@
             this.label5.TabIndex = 8;
             this.label5.Text = "Required Date";
             // 
-            // txtFreight
-            // 
-            this.txtFreight.Location = new System.Drawing.Point(597, 144);
-            this.txtFreight.Name = "txtFreight";
-            this.txtFreight.Size = new System.Drawing.Size(250, 27);
-            this.txtFreight.TabIndex = 11;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -110,9 +104,12 @@
             // 
             // dgvOrderDetail
             // 
+            this.dgvOrderDetail.AllowUserToAddRows = false;
+            this.dgvOrderDetail.AllowUserToDeleteRows = false;
             this.dgvOrderDetail.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvOrderDetail.Location = new System.Drawing.Point(51, 222);
             this.dgvOrderDetail.Name = "dgvOrderDetail";
+            this.dgvOrderDetail.ReadOnly = true;
             this.dgvOrderDetail.RowHeadersWidth = 51;
             this.dgvOrderDetail.RowTemplate.Height = 29;
             this.dgvOrderDetail.Size = new System.Drawing.Size(796, 159);
@@ -126,6 +123,7 @@
             this.btnUpdate.TabIndex = 20;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnClose
             // 
@@ -135,6 +133,7 @@
             this.btnClose.TabIndex = 21;
             this.btnClose.Text = "Close";
             this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // dteRequiredDate
             // 
@@ -145,6 +144,7 @@
             // 
             // dteOrderDate
             // 
+            this.dteOrderDate.Enabled = false;
             this.dteOrderDate.Location = new System.Drawing.Point(186, 96);
             this.dteOrderDate.Name = "dteOrderDate";
             this.dteOrderDate.Size = new System.Drawing.Size(250, 27);
@@ -157,12 +157,13 @@
             this.dteShippedDate.Size = new System.Drawing.Size(250, 27);
             this.dteShippedDate.TabIndex = 24;
             // 
-            // txtMemberName
+            // txtMemberEmail
             // 
-            this.txtMemberName.Location = new System.Drawing.Point(597, 55);
-            this.txtMemberName.Name = "txtMemberName";
-            this.txtMemberName.Size = new System.Drawing.Size(250, 27);
-            this.txtMemberName.TabIndex = 25;
+            this.txtMemberEmail.Location = new System.Drawing.Point(597, 55);
+            this.txtMemberEmail.Name = "txtMemberEmail";
+            this.txtMemberEmail.ReadOnly = true;
+            this.txtMemberEmail.Size = new System.Drawing.Size(250, 27);
+            this.txtMemberEmail.TabIndex = 25;
             // 
             // label4
             // 
@@ -177,17 +178,26 @@
             // 
             this.txtOrderId.Location = new System.Drawing.Point(186, 50);
             this.txtOrderId.Name = "txtOrderId";
+            this.txtOrderId.ReadOnly = true;
             this.txtOrderId.Size = new System.Drawing.Size(250, 27);
             this.txtOrderId.TabIndex = 27;
             // 
-            // frmOrderObjectDetail
+            // numFreight
+            // 
+            this.numFreight.Location = new System.Drawing.Point(597, 150);
+            this.numFreight.Name = "numFreight";
+            this.numFreight.Size = new System.Drawing.Size(250, 27);
+            this.numFreight.TabIndex = 28;
+            // 
+            // frmOrderObjectDetailUpdate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(901, 496);
+            this.Controls.Add(this.numFreight);
             this.Controls.Add(this.txtOrderId);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtMemberName);
+            this.Controls.Add(this.txtMemberEmail);
             this.Controls.Add(this.dteShippedDate);
             this.Controls.Add(this.dteOrderDate);
             this.Controls.Add(this.dteRequiredDate);
@@ -195,15 +205,16 @@
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.dgvOrderDetail);
-            this.Controls.Add(this.txtFreight);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "frmOrderObjectDetail";
-            this.Text = "frmOrderObjectDetail";
+            this.Name = "frmOrderObjectDetailUpdate";
+            this.Text = "Update Order";
+            this.Load += new System.EventHandler(this.frmOrderObjectDetailUpdate_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrderDetail)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numFreight)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -215,7 +226,6 @@
         private Label label2;
         private Label label3;
         private Label label5;
-        private TextBox txtFreight;
         private Label label6;
         private Label label9;
         private DataGridView dgvOrderDetail;
@@ -224,8 +234,9 @@
         private DateTimePicker dteRequiredDate;
         private DateTimePicker dteOrderDate;
         private DateTimePicker dteShippedDate;
-        private TextBox txtMemberName;
+        private TextBox txtMemberEmail;
         private Label label4;
         private TextBox txtOrderId;
+        private NumericUpDown numFreight;
     }
 }
