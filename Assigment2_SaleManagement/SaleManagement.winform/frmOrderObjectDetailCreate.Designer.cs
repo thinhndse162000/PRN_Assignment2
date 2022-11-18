@@ -54,17 +54,20 @@
             this.label11 = new System.Windows.Forms.Label();
             this.labTotal = new System.Windows.Forms.Label();
             this.numFreight = new System.Windows.Forms.NumericUpDown();
+            this.label12 = new System.Windows.Forms.Label();
+            this.numOrderId = new System.Windows.Forms.NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSearchProductResult)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrderDetail)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numProduct)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numDiscount)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numFreight)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numOrderId)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(51, 52);
+            this.label1.Location = new System.Drawing.Point(471, 56);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(106, 20);
             this.label1.TabIndex = 0;
@@ -231,9 +234,9 @@
             // cboMemberEmail
             // 
             this.cboMemberEmail.FormattingEnabled = true;
-            this.cboMemberEmail.Location = new System.Drawing.Point(186, 52);
+            this.cboMemberEmail.Location = new System.Drawing.Point(597, 48);
             this.cboMemberEmail.Name = "cboMemberEmail";
-            this.cboMemberEmail.Size = new System.Drawing.Size(661, 28);
+            this.cboMemberEmail.Size = new System.Drawing.Size(250, 28);
             this.cboMemberEmail.TabIndex = 25;
             // 
             // label4
@@ -295,11 +298,29 @@
             this.numFreight.Size = new System.Drawing.Size(250, 27);
             this.numFreight.TabIndex = 32;
             // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(56, 56);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(64, 20);
+            this.label12.TabIndex = 33;
+            this.label12.Text = "Order Id";
+            // 
+            // numOrderId
+            // 
+            this.numOrderId.Location = new System.Drawing.Point(186, 54);
+            this.numOrderId.Name = "numOrderId";
+            this.numOrderId.Size = new System.Drawing.Size(250, 27);
+            this.numOrderId.TabIndex = 34;
+            // 
             // frmOrderObjectDetailCreate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(890, 853);
+            this.Controls.Add(this.numOrderId);
+            this.Controls.Add(this.label12);
             this.Controls.Add(this.numFreight);
             this.Controls.Add(this.labTotal);
             this.Controls.Add(this.label11);
@@ -334,6 +355,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numProduct)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numDiscount)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numFreight)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numOrderId)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -367,5 +389,7 @@
         private Label label11;
         private Label labTotal;
         private NumericUpDown numFreight;
+        private Label label12;
+        private NumericUpDown numOrderId;
     }
 }

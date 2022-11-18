@@ -54,8 +54,7 @@ namespace SaleManagement.winform
         private void btnAdd_Click(object sender, EventArgs e)
         {
             frmOrderObjectDetailCreate frm = new frmOrderObjectDetailCreate();
-            frm.Show();
-            if (frm.DialogResult == DialogResult.OK)
+            if (frm.ShowDialog() == DialogResult.OK)
             {
                 LoadDgvData();
             }
@@ -76,8 +75,7 @@ namespace SaleManagement.winform
             {
                 order = order,
             };
-            frm.Show();
-            if (frm.DialogResult == DialogResult.OK)
+            if (frm.ShowDialog() == DialogResult.OK)
             {
                 LoadDgvData();
             }

@@ -230,16 +230,22 @@ namespace SaleManagement.winform
             }
 
             var member = memberRepository.GetMemberByEmail(cboMemberEmail.Text);
-            //member.Orders.Add(order);
 
-            //order.Member = member;
+            order.OrderId = (int)numOrderId.Value;
             order.MemberId = member.MemberId;
             order.OrderDate = dteOrderDate.Value;
             order.RequiredDate = dteRequiredDate.Value;
             order.ShippedDate = dteShippedDate.Value;
             order.Freight = numFreight.Value;
 
-            orderRepository.Create(order);
+            try
+            {
+                orderRepository.Create(order);
+            } catch (Exception)
+            {
+                MessageBox.Show("Order ID already exist");
+                return;
+            }
 
             this.DialogResult = DialogResult.OK;
         }

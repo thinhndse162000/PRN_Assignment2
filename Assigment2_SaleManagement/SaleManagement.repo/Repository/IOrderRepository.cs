@@ -11,6 +11,8 @@ namespace SaleManagement.repo.Repository
     {
         IEnumerable<Order> GetOrders();
 
+        IEnumerable<Order> GetOrdersByMemberId(int memberId);
+
         Order GetOrderById(int id);
 
         void Delete(int orderId);

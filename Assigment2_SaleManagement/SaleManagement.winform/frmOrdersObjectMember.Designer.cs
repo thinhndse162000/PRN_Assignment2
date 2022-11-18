@@ -77,6 +77,7 @@
             this.Controls.Add(this.dgvOrder);
             this.Name = "frmOrdersObjectMember";
             this.Text = "Orders";
+            this.Load += new System.EventHandler(this.frmOrdersObjectMember_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvOrder)).EndInit();
             this.ResumeLayout(false);
 

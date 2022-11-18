@@ -45,6 +45,11 @@ namespace SaleManagement.repo.Repository
             return _db.Orders.ToArray();
         }
 
+        public IEnumerable<Order> GetOrdersByMemberId(int memberId)
+        {
+            return _db.Orders.Where(o => o.MemberId == memberId).ToArray();
+        }
+
         public void Update(Order order)
         {
             if (order != null)

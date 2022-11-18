@@ -139,6 +139,9 @@ C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\ref\SaleManagement.winform.dll
 C:\Users\Admin\source\repos\Assgiment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMemberDetails.resources
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.genruntimeconfig.cache
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.exe
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\appsettings.json
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.deps.json
@@ -147,10 +150,12 @@ C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManageme
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\SaleManagement.winform.pdb
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Core.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Castle.Core.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
@@ -175,7 +180,6 @@ C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManageme
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\System.Memory.Data.dll
@@ -198,6 +202,7 @@ C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManageme
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMemberDetails.resources
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmMembers.resources
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrderObjectDetailCreate.resources
+C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrderObjectDetailUpdate.resources
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrdersObjectAdmin.resources
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrdersObjectMember.resources
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmProductObjectDetails.resources
@@ -211,9 +216,4 @@ C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManageme
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\refint\SaleManagement.winform.dll
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.pdb
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.genruntimeconfig.cache
 C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\ref\SaleManagement.winform.dll
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\obj\Debug\net6.0-windows\SaleManagement.winform.frmOrderObjectDetailUpdate.resources
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Castle.Core.dll
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
-C:\Users\Duy\source\repos\PRN_Assignment2\Assigment2_SaleManagement\SaleManagement.winform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
