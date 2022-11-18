@@ -12,6 +12,8 @@ namespace SaleManagement.repo.Repository
         IEnumerable<Member> GetAllMember();
         List<Member> GetMembers();
         Member GetMemberById(int memberId);
+
+        Member GetMemberByEmail(string email);
         string GetAdminEmail();
         string GetAdminPassword();
         void CreateMember(Member member);

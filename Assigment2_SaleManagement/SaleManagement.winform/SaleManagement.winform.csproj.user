@@ -13,7 +13,13 @@
     <Compile Update="frmMembers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmOrdersObject.cs">
+    <Compile Update="frmOrderObjectDetailCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOrdersObjectAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOrdersObjectMember.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmProductObjectDetails.cs">

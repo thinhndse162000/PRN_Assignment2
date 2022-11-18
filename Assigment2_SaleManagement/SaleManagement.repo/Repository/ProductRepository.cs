@@ -52,7 +52,6 @@ namespace SaleManagement.repo.Repository
                 var product = _db.Products.First(g => g.ProductId.Equals(c.ProductId));
                 _db.Entry(product).CurrentValues.SetValues(c);
                 _db.SaveChanges();
-
             }
         }
     }

@@ -60,6 +60,13 @@ namespace SaleManagement.repo.Repository
                 .FirstOrDefault();
         }
 
+        public Member? GetMemberByEmail(string email)
+        {
+            return this._db.Members
+                .Where(m => m.Email.Equals(email))
+                .FirstOrDefault();
+        }
+
         public List<Member> GetMembers() => _db.Members.ToList();
 
     }
