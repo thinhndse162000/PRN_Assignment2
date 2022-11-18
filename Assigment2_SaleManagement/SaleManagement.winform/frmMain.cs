@@ -13,7 +13,7 @@ namespace SaleManagement.winform
     public partial class frmMain : Form
     {
         frmMembers frmMembers;
-        frmOrdersObject frmOrdersObject;
+        frmOrdersObjectAdmin frmOrdersObject;
         frmProductsObject frmProductsObject;
         public frmMain()
         {
@@ -51,7 +51,7 @@ namespace SaleManagement.winform
         {
             if (this.frmOrdersObject is null || this.frmOrdersObject.IsDisposed)
             {
-                this.frmOrdersObject = new frmOrdersObject();
+                this.frmOrdersObject = new frmOrdersObjectAdmin();
                 this.frmOrdersObject.MdiParent = this;
                 this.frmOrdersObject.Show();
             }

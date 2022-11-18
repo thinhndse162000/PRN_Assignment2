@@ -56,5 +56,12 @@ namespace SaleManagement.winform
         {
             this.Close();
         }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+            frmOrdersObjectAdmin frm = new frmOrdersObjectAdmin();
+            frm.Show();
+            this.Hide();
+        }
     }
 }
