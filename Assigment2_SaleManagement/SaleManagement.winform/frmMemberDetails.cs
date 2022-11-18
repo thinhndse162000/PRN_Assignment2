@@ -32,7 +32,6 @@ namespace SaleManagement.winform
             // collect thong tin trong form
             var c = new Member
             {
-                MemberId = int.Parse(txtMemberId.Text),
                 Email = txtEmail.Text,
                 Password = txtPassword.Text,
                 CompanyName = txtCompany.Text,
@@ -61,7 +60,10 @@ namespace SaleManagement.winform
                 txtCompany.Text = member.CompanyName;
                 txtCity.Text = member.City;
                 txtCountry.Text = member.Country;
-            } 
+            }
+            else if (InsertOrUpdate == false) {
+                txtMemberId.Enabled = false;
+            }
         }
     }
 }

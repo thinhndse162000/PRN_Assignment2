@@ -56,5 +56,4 @@ ALTER TABLE OrderDetail
 ADD FOREIGN KEY (ProductId) REFERENCES Product(ProductId)
 ALTER TABLE OrderDetail
 ADD FOREIGN KEY (OrderId) REFERENCES [Order](OrderId)
-INSERT INTO Member
-VALUES(1, 'admin@fstore.com','FPT Company','TP HCM','VN','admin@@')
+

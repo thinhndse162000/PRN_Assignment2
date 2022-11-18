@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+﻿
 using SaleManagement.repo.Models;
 using SaleManagement.repo.Repository;
 using System;
