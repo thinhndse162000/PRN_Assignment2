@@ -35,7 +35,12 @@ namespace SaleManagement.winform
 
         private void frmOrdersObjectMember_Load(object sender, EventArgs e)
         {
+            LoadDgvData();
+        }
 
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

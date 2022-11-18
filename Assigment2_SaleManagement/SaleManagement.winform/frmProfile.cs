@@ -76,5 +76,14 @@ namespace SaleManagement.winform
                 this.Show();
             }
         }
+
+        private void btnHistory_Click(object sender, EventArgs e)
+        {
+            frmOrdersObjectMember frm = new frmOrdersObjectMember
+            {
+                memberId = id,
+            };
+            frm.Show();
+        }
     }
 }
